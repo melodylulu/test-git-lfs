@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\EMBA\\\350\253\226\346\226\207\350\263\207\346\226\231\\python\\NTCIR\\chatbot-token\\s2ss_chatbot.ckpt"
+all_model_checkpoint_paths: "D:\\EMBA\\\350\253\226\346\226\207\350\263\207\346\226\231\\python\\NTCIR\\chatbot-token\\s2ss_chatbot.ckpt"
